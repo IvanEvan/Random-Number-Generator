@@ -54,6 +54,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout.addWidget(self.pushButton)
         self.label_3 = QtWidgets.QLabel(self.horizontalLayoutWidget)
         self.label_3.setObjectName("label_3")
+        self.label_3.setStyleSheet("color:blue")
         self.horizontalLayout.addWidget(self.label_3)
         self.verticalLayout.addWidget(self.groupBox_2)
         MainWindow.setCentralWidget(self.centralwidget)
