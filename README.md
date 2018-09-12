@@ -1,7 +1,7 @@
 # Random-Number-Generator
 ## - Introduction           
 
-A GUI create random number, you just need ==RandomNumber.py== and ==window.py==.   
+A GUI create random number, you just need **RandomNumber.py** and ==window.py==.   
 
 The GUI main window as follow:
 
